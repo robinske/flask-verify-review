@@ -1,0 +1,6 @@
+# change filename to settings.py
+KNOWN_PARTICIPANTS = {
+  'herooftime@hyrule.com': '<your phone number for testing here>',
+  'zelda@hyrule.com': '+15551234567',
+  'tetra@hyrule.com': '+15557654321'
+}
